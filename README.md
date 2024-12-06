@@ -6,7 +6,7 @@
         about me:<br>
         <ul>
           <li>she/her, brazilian, pt-br + eng</li>
-          <li>graduating in analysis & systems development</li>
+          <li>graduated in analysis and systems development</li>
           <li>working as a back-end developer</li>
           <li>studying python and cybersecurity</li>
         </ul>
