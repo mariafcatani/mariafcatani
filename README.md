@@ -24,12 +24,12 @@
       <table>
         <tr>
           <td>
-            <a href="https://github.com/miauware"><img height="150em" src="https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=miauware&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=95c5c9&icon_color=95c5c9"/></a>
+            <a href="https://github.com/mariafcatani"><img height="150em" src="https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=95c5c9&icon_color=95c5c9"/></a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://wakatime.com/@miauware"><img height="115em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=95c5c9&text_color=fff&hide=yaml,text,git,git%20config,markdown,json,erb,bash,other&range=last_7_days"/></a>
+            <a href="https://wakatime.com/@mariafcatani"><img height="115em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=95c5c9&text_color=fff&hide=yaml,text,git,git%20config,markdown,json,erb,bash,other&range=last_7_days"/></a>
           </td>
         </tr>
       </table>
