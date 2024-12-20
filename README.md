@@ -13,7 +13,7 @@
         contact:<br>
         <a href="https://www.linkedin.com/in/mariafcatani/"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=d33473"></a>
         <a href="mailto:mariafernandacatani@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=flat-square&logo=gmail&logoColor=d33473"></a><br>
-        <br>langs and tools:<br>
+        <br>technologies:<br>
         <img src="https://img.shields.io/badge/-ruby-0D1117?style=flat-square&logo=ruby&logoColor=d33473"/>
         <img src="https://img.shields.io/badge/-ruby_on_rails-0D1117?style=flat-square&logo=rubyonrails&logoColor=d33473"/>
         <img src="https://img.shields.io/badge/-delphi-0D1117?style=flat-square&logo=delphi&logoColor=d33473"/>
