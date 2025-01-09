@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=17&duration=1&pause=1&color=d33473&repeat=false&width=80&height=25&lines=Welcome!"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=17&duration=1&pause=1&color=d33473&repeat=false&width=80&height=25&lines=Welcome!"/>
 
 <samp style="font-family: monospace; white-space: pre-wrap;">
   about me:
@@ -8,7 +8,7 @@
     <li>working as a back-end developer</li>
     <li>studying python and cybersecurity</li>
   </ul>
-  <br>contact:<br>
+  contact:<br>
   <a href="https://www.linkedin.com/in/mariafcatani/"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=d33473" style="display: inline-block; margin-right: 10px;"></a>
   <a href="mailto:mariafernandacatani@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=flat-square&logo=gmail&logoColor=d33473" style="display: inline-block; margin-right: 10px;"></a><br><br>
   technologies:<br>
