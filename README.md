@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&duration=1&pause=1&color=d33473&repeat=false&width=80&height=25&lines=Welcome!"/>
 </p>
-
 <p align="center">
   back-end developer ・ graduated in analysis and systems development ・ cybersecurity enthusiast
 </p>
-
+<br>
 <table align="center">
   <tr>
     <td>
