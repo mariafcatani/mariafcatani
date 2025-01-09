@@ -1,4 +1,4 @@
-<table align="center">
+<table>
   <tr>
     <td>
       <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=15&duration=1&pause=1&color=d33473&repeat=false&width=70&height=25&lines=Welcome!"/><br>
