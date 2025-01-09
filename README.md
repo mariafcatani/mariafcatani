@@ -8,18 +8,15 @@
     <li>working as a back-end developer</li>
     <li>studying python and cybersecurity</li>
   </ul>
-
-  contact:<br>
+  <br>contact:<br>
   <a href="https://www.linkedin.com/in/mariafcatani/"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=d33473" style="display: inline-block; margin-right: 10px;"></a>
   <a href="mailto:mariafernandacatani@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=flat-square&logo=gmail&logoColor=d33473" style="display: inline-block; margin-right: 10px;"></a><br><br>
-
   technologies:<br>
   <img src="https://img.shields.io/badge/-ruby-0D1117?style=flat-square&logo=ruby&logoColor=d33473" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-ruby_on_rails-0D1117?style=flat-square&logo=rubyonrails&logoColor=d33473" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-delphi-0D1117?style=flat-square&logo=delphi&logoColor=d33473" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-python-0D1117?style=flat-square&logo=python&logoColor=d33473" style="display: inline-block;">
-</samp>
-
+</samp><br><br>
 <table>
   <tr>
     <td>
