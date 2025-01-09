@@ -20,16 +20,20 @@
         <img src="https://img.shields.io/badge/-python-0D1117?style=flat-square&logo=python&logoColor=d33473"/>
       </samp>
     </td>
+  </tr>
+  <tr>
     <td>
       <table>
         <tr>
           <td>
-            <a href="https://github.com/mariafcatani"><img height="150em" src="https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=d33473&icon_color=d33473"/></a>
+            <a href="https://github.com/mariafcatani">
+              <img height="150em" src="https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=d33473&icon_color=d33473"/>
+            </a>
           </td>
-        </tr>
-        <tr>
           <td>
-            <a href="https://wakatime.com/@mariafcatani"><img height="115em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=d33473&text_color=fff&hide=yaml,text,git,git%20config,markdown,erb,bash,other&range=last_7_days"/></a>
+            <a href="https://wakatime.com/@mariafcatani">
+              <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=d33473&text_color=fff&hide=yaml,text,git,git%20config,markdown,erb,bash,other&range=last_7_days"/>
+            </a>
           </td>
         </tr>
       </table>
