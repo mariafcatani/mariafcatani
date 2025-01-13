@@ -14,7 +14,7 @@
     </td>
     <td>
       <a href="https://wakatime.com/@mariafcatani">
-        <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=d33473&text_color=fff&hide=yaml,text,git,git%20config,markdown,erb,bash,other&range=last_7_days"/>
+        <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=d33473&text_color=fff&hide=text,git,git%20config,markdown,bash,other&range=last_7_days"/>
       </a>
     </td>
   </tr>
