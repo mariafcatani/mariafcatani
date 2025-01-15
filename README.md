@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&duration=1&pause=1&color=d33473&repeat=false&width=80&height=25&lines=Welcome!"/>
 </p>
 <p align="center">
-  Back-end Developer ・ Graduated in Analysis and Systems Development ・ Cybersecurity Enthusiast
+  Back-end Developer ・ Graduated in Systems Analysis and Development ・ Cybersecurity Enthusiast
 </p>
 <br>
 <table align="center">
