@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-💻 Buscando ampliar meus conhecimentos em **Desenvolvimento Full-stack**
+💻 Buscando ampliar meus conhecimentos em desenvolvimento **Frond-end**
 
 🌱 Aprendendo mais sobre **Cibersegurança**
 
