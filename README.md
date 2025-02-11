@@ -19,3 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafcatani)
 <a href = "mailto:mariafernandacatani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+## Stats
+[![Wakatime](https://wakatime.com/badge/user/77b6e513-896a-427f-8e46-9a67cbd76f56.svg)](https://wakatime.com/@77b6e513-896a-427f-8e46-9a67cbd76f56)
+
+![GitHub Stats](https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true)
